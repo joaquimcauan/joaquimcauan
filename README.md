@@ -1,16 +1,127 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Joaquim Cauan
 
-<!--
-**joaquimcauan/joaquimcauan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudante de Tecnologia | Programação
 
-Here are some ideas to get you started:
+Sou estudante e estou construindo minha trajetória na área de **Tecnologia e Desenvolvimento de Software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprimorando meus conhecimentos em programação, buscando transformar o aprendizado em **projetos práticos e soluções para problemas reais**.
+
+---
+
+## 🚀 Sobre mim
+
+* 🎓 Estudante na área de Tecnologia
+* 💻 Estudando **Programação**
+* 🐍 Aprendendo e desenvolvendo projetos em **Python**
+* 🧠 Estudando **Lógica de Programação e Estruturas de Dados**
+* 🌐 Desenvolvendo conhecimentos em **HTML e CSS**
+* 🔧 Aprendendo sobre **Git e GitHub**
+* 📚 Sempre buscando aprender novas tecnologias
+* 🎯 Em busca da minha primeira oportunidade na área de Tecnologia
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+🐍 Python
+├── Lógica de Programação
+├── Variáveis e Tipos de Dados
+├── Condicionais
+├── Estruturas de Repetição
+├── Listas
+├── Funções
+├── Métodos
+└── Estruturas de Dados
+
+🌐 Desenvolvimento Web
+├── HTML
+├── CSS
+└── JavaScript
+```
+
+---
+
+## 🚀 Projetos
+
+### 🐾 Arca Pet
+
+Projeto de uma aplicação voltada para uma **casa de ração e acessórios para animais**.
+
+**Objetivo:** desenvolver uma solução digital para organização e apresentação de produtos.
+
+**Tecnologias:**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 📦 Projetos de Estudo
+
+Projetos desenvolvidos durante minha jornada de aprendizado em programação, com foco em:
+
+* Lógica de programação
+* Estruturas de dados
+* Funções
+* Listas
+* Resolução de problemas
+* Desenvolvimento de aplicações
+
+---
+
+## 📈 Minha jornada
+
+```text
+Aprender → Praticar → Criar projetos → Compartilhar → Evoluir 🚀
+```
+
+Estou construindo minha carreira passo a passo e utilizando o GitHub para registrar minha evolução como desenvolvedor.
+
+---
+
+## 🎯 Objetivos
+
+* 📖 Aprofundar meus conhecimentos em programação
+* 🐍 Evoluir em Python
+* 🌐 Aprender desenvolvimento web
+* 🛠️ Criar projetos cada vez mais completos
+* 🤝 Contribuir com projetos e comunidades
+* 💼 Conseguir minha primeira oportunidade profissional na área de Tecnologia
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
+
+Se você gostou de algum projeto, fique à vontade para deixar uma ⭐ no repositório.
