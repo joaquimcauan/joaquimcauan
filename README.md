@@ -64,20 +64,6 @@ Atualmente, estou aprimorando meus conhecimentos em programação, buscando tran
 
 ## 🚀 Projetos
 
-### 🐾 Arca Pet
-
-Projeto de uma aplicação voltada para uma **casa de ração e acessórios para animais**.
-
-**Objetivo:** desenvolver uma solução digital para organização e apresentação de produtos.
-
-**Tecnologias:**
-
-* HTML
-* CSS
-* JavaScript
-
----
-
 ### 📦 Projetos de Estudo
 
 Projetos desenvolvidos durante minha jornada de aprendizado em programação, com foco em:
@@ -109,19 +95,3 @@ Estou construindo minha carreira passo a passo e utilizando o GitHub para regist
 * 🛠️ Criar projetos cada vez mais completos
 * 🤝 Contribuir com projetos e comunidades
 * 💼 Conseguir minha primeira oportunidade profissional na área de Tecnologia
-
----
-
-## 📫 Vamos nos conectar?
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **Obrigado por visitar meu perfil!**
-
-Se você gostou de algum projeto, fique à vontade para deixar uma ⭐ no repositório.
